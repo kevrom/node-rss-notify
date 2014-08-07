@@ -1,0 +1,25 @@
+{
+  "name": "node-rss-notify",
+  "version": "0.0.0",
+  "description": "An RSS notify module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "noneyet"
+  },
+  "keywords": [
+    "rss",
+    "notify",
+    "notification"
+  ],
+  "author": "Kevin Romano",
+  "license": "MIT",
+  "dependencies": {
+    "feedparser": "^0.19.1",
+    "node-notifier": "^3.1.2",
+    "request": "^2.39.0"
+  }
+}
